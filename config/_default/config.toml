@@ -2,7 +2,6 @@
 baseurl      = "https://orangeoi.qzz.io"
 languageCode = "zh-cn"
 title        = "Milk_Dragon's blog"
-theme = "stack"
 # Set default language
 defaultContentLanguage = "zh"
 
