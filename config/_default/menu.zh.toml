@@ -13,7 +13,7 @@
     weight     = 2
     [main.params]
         icon = "archives"
-
+		
 [[main]]
     identifier = "search"
     name       = "搜索"
@@ -21,21 +21,36 @@
     weight     = 3
     [main.params]
         icon = "search"
+		
+[[main]]
+    identifier = "tags"
+    name = "标签"                      # 👈 添加标签菜单
+    url = "/tags/"
+    weight = 4
+    [main.params]
+        icon = "tags"
 
 [[main]]
     identifier = "about"
     name       = "关于"
     url        = "/about/"
-    weight     = 4
+    weight     = 5
     [main.params]
         icon = "user"      
 
 [[social]]
     identifier = "github"
     name       = "GitHub"
-    url        = "https://github.com/liu-houliang/hugo-stack-starter"
+    url        = "https://github.com/IOIgf"
     [social.params]
         icon = "brand-github"
+
+[[social]]
+    identifier = "email"
+    name = "邮箱"                      # 👈 添加邮箱
+    url = "mailto:zbt662720@outlook.com"
+    [social.params]
+        icon = "mail"
 
 [[social]]
     identifier = "RSS"

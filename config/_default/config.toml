@@ -1,8 +1,8 @@
 # Change baseurl before deploy
-baseurl      = "https://liu-houliang.github.io/hugo-stack-starter/"
+baseurl      = "https://orangeoi.qzz.io"
 languageCode = "zh-cn"
-title        = "Hugo Theme Stack Starter Template"
-
+title        = "Milk_Dragon's blog"
+theme = "stack"
 # Set default language
 defaultContentLanguage = "zh"
 

@@ -8,7 +8,7 @@ favicon        = "img/favicon.jpg"
 SortBy              = "default"
 
 [footer]
-    customText = "这里可以自定义footer内容"
+    customText = "© 2026 Milk_Dragon"
 
 [dateFormat]
     # 使用当地日期格式
@@ -17,12 +17,12 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🚀"
-    subtitle = "这是一个基于 Hugo Theme Stack v4 的修改版本"
+    subtitle = "我是奶龙"
     avatar   = "img/avatar.jpg"
 
 [article]
     headingAnchor = true
-    math          = false
+    math          = true
     readingTime   = true
 
     [article.license]
